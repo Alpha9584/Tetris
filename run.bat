@@ -1,1 +1,2 @@
-./main/main.exe
+cd main
+main.exe
